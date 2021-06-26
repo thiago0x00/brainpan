@@ -14,3 +14,8 @@ Usage:
 python poc-fuzzing-brainpan.py
 
 python exploit-brainpan-final.py
+
+################################################################################################
+
+The msfvenom code, was generated to reverse shell to my parrot vm (172.16.16.202 4321).
+
